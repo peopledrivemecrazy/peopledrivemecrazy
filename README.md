@@ -1,8 +1,15 @@
-### Hi there 👋
+# Shriji
+ Co-Founder [@anoram](https://github.com/anoram). High Performance JavaScript Apps. I created https://vadivelu.anoram.com/ and https://biriyani.anoram.com/ API. 
+
+  ### Latest posts from [dev.to](https://dev.to/shriji)
+  [<img src="https://dev.to/social_previews/article/383322.png" width=60%/>](https://dev.to/shriji/learn-how-to-build-simple-image-api-service-92b)
+
+  
+  [<img src="https://dev.to/social_previews/article/372863.png" width=60%/>](https://dev.to/shriji/crypto-widget-with-svelte-28h0)
 
 <!--
 **peopledrivemecrazy/peopledrivemecrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GGWP](https://img.shields.io/badge/GG-WP-crimson.svg)](https://shriji.xyz/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
