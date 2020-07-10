@@ -2,10 +2,10 @@
  Co-Founder [@anoram](https://github.com/anoram). High Performance JavaScript Apps. I created https://vadivelu.anoram.com/ and https://biriyani.anoram.com/ API. 
 
   ### Latest posts from [dev.to](https://dev.to/shriji)
-  [<img src="https://dev.to/social_previews/article/383322.png" width=60%/>](https://dev.to/shriji/learn-how-to-build-simple-image-api-service-92b)
+  [<img src="https://dev.to/social_previews/article/383322.png"/>](https://dev.to/shriji/learn-how-to-build-simple-image-api-service-92b)
 
   
-  [<img src="https://dev.to/social_previews/article/372863.png" width=60%/>](https://dev.to/shriji/crypto-widget-with-svelte-28h0)
+  [<img src="https://dev.to/social_previews/article/372863.png"/>](https://dev.to/shriji/crypto-widget-with-svelte-28h0)
 
 <!--
 **peopledrivemecrazy/peopledrivemecrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
