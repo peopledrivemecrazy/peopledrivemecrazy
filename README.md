@@ -1,8 +1,4 @@
 <meta property="og:image" content="https://widget.anoram.com/socialshare.jpg">
-<meta property="og:description" content="High Performance JavaScript Apps">
-<meta property="og:title" content="Shriji Kondan">
-<meta property="og:url" content="https://shriji.xyz">
-<meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:creator" content="@shriji">
 <meta name="twitter:url" content="https://shriji.xyz">
