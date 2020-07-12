@@ -14,8 +14,7 @@ Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I cre
 
 # test zone
 
-<details>
-  <summary>DEV to Github profile assistant</summary>
+
 
 ### [DEV to Github profile assistant](https://dev.to/shriji/dev-to-github-profile-assistant-p8f)
 
@@ -33,7 +32,7 @@ Github released a new feature that let's you create your resume/profile. I have 
 
   ![Generated MD](https://dev-to-uploads.s3.amazonaws.com/i/19kb9gns2docqnjb39kl.jpg)
 
-</details>
+
 
 
 
