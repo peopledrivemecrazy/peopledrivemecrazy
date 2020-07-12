@@ -1,13 +1,3 @@
-<meta property="og:image" content="https://widget.anoram.com/socialshare.jpg">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:creator" content="@shriji">
-<meta name="twitter:url" content="https://shriji.xyz">
-<meta name="twitter:title" content="High Performance JavaScript Apps">
-<meta name="twitter:description" content="Shriji Kondan">
-<meta name="twitter:image" content="https://widget.anoram.com/twshare.jpg">
-
-<meta name="Description" content="Shriji Kondan">
-
 # Shriji
 Co-Founder @anoram. High Performance JavaScript Apps. I created [https://vadivelu.anoram.com/](https://vadivelu.anoram.com/) and [https://biriyani.anoram.com/](https://biriyani.anoram.com/) API.
 <hr>
