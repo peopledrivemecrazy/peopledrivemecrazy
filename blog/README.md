@@ -1,0 +1,15 @@
+# DEV to Github profile assistant
+
+Github released a new feature that let's you create your resume/profile. I have made a README.MD [generator](http://github.anoram.com/) that fetches your profile's Name, bio and recent 5 articles.
+
+Here is my profile preview
+![Preview](https://dev-to-uploads.s3.amazonaws.com/i/moj1al3vf76xkdg31aqe.png)
+
+To create a profile simply use your username as repository's name. You will be greeted with this
+
+![Greet](https://dev-to-uploads.s3.amazonaws.com/i/ked9mbnut1me9c99k67b.png)
+
+Go get your profile's README here http://github.anoram.com/
+The Generated MD looks like this.
+
+![Generated MD](https://dev-to-uploads.s3.amazonaws.com/i/19kb9gns2docqnjb39kl.jpg)
