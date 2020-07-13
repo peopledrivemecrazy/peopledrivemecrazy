@@ -13,8 +13,8 @@ Co-Founder @anoram. High Performance JavaScript Apps. I created https://vadivelu
 
 <p align="center">
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=shriji.shriji" />
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshriji" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=peopledrivemecrazy.peopledrivemecrazy" />
+<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpeopledrivemecrazy" />
 
 </p>
 
