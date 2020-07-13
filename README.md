@@ -11,9 +11,13 @@ Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I cre
 * Jun 21 2020 [Svelte + Dad Jokes + GraphQL-yoga](https://dev.to/shriji/svelte-dad-jokes-graphql-yoga-433i) 
 * Jun 15 2020 [Game on console.log()?](https://dev.to/shriji/game-on-console-log-5cbk) 
 
+<hr>
 
+<p align="center">
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=peopledrivemecrazy.peopledrivemecrazy" />
 
+</p>
 
 
 
