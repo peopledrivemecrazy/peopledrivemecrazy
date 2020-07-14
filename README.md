@@ -20,10 +20,5 @@ Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I cre
 
 <hr>
 
+  [<img src="https://biriyani.anoram.com/link" width="40%" />](https://biriyani.anoram.com/)
 
-
-<p align="center">
-  <img src="https://biriyani.anoram.com/link" width="40%" />
-  <br>
-  <i>this biriyani is served from https://biriyani.anoram.com/ API.</i>
-</p>
