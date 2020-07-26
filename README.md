@@ -1,4 +1,4 @@
-# Shriji <img src="gh.svg" />
+# Shriji
 Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I created https://vadivelu.anoram.com/ and https://biriyani.anoram.com/ API.
 <hr>
 
