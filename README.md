@@ -4,11 +4,11 @@ Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I cre
 
 ### 📝 Latest articles from [dev.to](https://dev.to/shriji)
 
+* Aug 10 2020 [Headless WordPress + Sapper (Part 2)](https://dev.to/shriji/headless-wordpress-sapper-part-2-2onf) 
+* Aug 09 2020 [Headless WordPress with Sapper (Part 1)](https://dev.to/shriji/headless-wordpress-with-sapper-4b6j) 
 * Aug 02 2020 [Svelte XKCD chart](https://dev.to/shriji/svelte-xkcd-chart-22d0) 
 * Aug 02 2020 [Making hand-drawn charts using svelte actions](https://dev.to/shriji/making-hand-drawn-charts-using-svelte-actions-ai7) 
 * Jul 19 2020 [Making ISS 🛰️ tracker using Leaflet and Svelte](https://dev.to/shriji/making-iss-tracker-using-leaflet-and-svelte-gg6) 
-* Jul 13 2020 [Make the most of your github profile](https://dev.to/shriji/make-the-most-of-your-github-profile-1pod) 
-* Jul 11 2020 [DEV to Github profile assistant](https://dev.to/shriji/dev-to-github-profile-assistant-p8f) 
 
 
 <p align="center">
