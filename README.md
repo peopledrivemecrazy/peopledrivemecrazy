@@ -11,11 +11,3 @@ Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I cre
 * Aug 30 2020 [Headless WordPress + Sapper, JAMstack Security (Part 6)](https://dev.to/shriji/headless-wordpress-sapper-jamstack-security-part-6-4g1g) 
 
 
-<p align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=peopledrivemecrazy.peopledrivemecrazy" />
-
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpeopledrivemecrazy" />
-
-</p>
-
