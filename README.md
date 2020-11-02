@@ -1,5 +1,5 @@
 # Shriji
-Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps. I created [https://vadivelu.anoram.com/](https://vadivelu.anoram.com/) and [https://biriyani.anoram.com/](https://biriyani.anoram.com/) API.
+Co-Founder [anoram](https://anoram.com). High Performance JavaScript Apps.
 <hr>
 
 ### 📝 Latest articles from [dev.to](https://dev.to/shriji)
